@@ -18,6 +18,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=ML+Systems+%26+CUDA+Optimization;LLM+Memory+%26+Agentic+Systems;MLOps+on+Kubernetes+%2B+GKE;Edge+Intelligence+on+Linux+IoT;Vision-Language+Models+%26+Zero-Shot+Detection" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  Most ML engineers stop at the framework.<br/>
+  I go deeper — CUDA kernels, IoT edge servers, embedded systems —<br/>
+  then back up through LLM agents, RAG pipelines, and production MLOps.
+</p>
+
 ---
 
 ### 🚀 Currently
