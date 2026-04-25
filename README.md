@@ -22,7 +22,7 @@
 
 ### 🚀 Currently
 
-- 🎓 MS ECE @ **Northeastern University**, Boston — GPA **3.88 / 4.0** *(graduating May 2026)*
+- 🎓 MS ECE *(Hardware & Software for Machine Intelligence)* @ **Northeastern University**, Boston — GPA **3.88 / 4.0** *(graduating May 2026)*
 - 🏭 Hardware & Software Engineer Co-op @ **WindESCo** — Linux IoT edge server + AWS ML pipeline for real-time turbine monitoring
 - 🔧 Validation & Test Engineer Intern @ **Visteon India** — automotive ECU validation, HIL testing, ISO 26262
 - 🥉 **3rd Place** — Google MLOps Expo with AudioSEEK *(distributed RAG on GKE)*
