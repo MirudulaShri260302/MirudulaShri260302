@@ -5,6 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=MirudulaShri260302&label=Profile+Views&color=0e75b6&style=flat"/>
   </a>
   &nbsp;
+  <a href="https://mirudulashri.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mirudula26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:mirudulashri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
