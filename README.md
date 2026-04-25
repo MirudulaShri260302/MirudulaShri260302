@@ -20,7 +20,15 @@
 
 ### 👩‍💻 About Me
 
-Most ML engineers stop at the framework. I go deeper — CUDA kernels, IoT edge servers, and embedded systems — then back up through LLM agents, RAG pipelines, and production MLOps. I've built Linux-based IoT edge servers streaming turbine sensor data to AWS, optimized GPU workloads across NVIDIA P100/V100/H100, and shipped agentic LLM systems with real memory and retrieval. Whether the problem lives at the silicon layer or the inference layer, I'm comfortable working across the full stack.
+I build ML systems that work **all the way down to the hardware.**
+
+| ⚙️ Hardware Side | 🤖 ML Side |
+|---|---|
+| CUDA kernels · Nsight profiling | LLMs · RAG · Agentic systems |
+| Linux IoT edge servers · AWS pipelines | Vision-Language Models · zero-shot detection |
+| Embedded ECU validation · ISO 26262 | MLOps · Kubernetes · CI/CD |
+
+> *If the model is slow, I profile the GPU. If the pipeline breaks, I trace it to the wire.*
 
 ### 🚀 Currently
 
