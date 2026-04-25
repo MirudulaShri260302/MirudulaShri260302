@@ -132,24 +132,6 @@ Distributed audio semantic search — transcription → embeddings → FAISS/Qdr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirudulaShri260302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirudulaShri260302&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MirudulaShri260302&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirudulaShri260302&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
 ### 🎓 Education
 
 | | School | GPA | Period |
